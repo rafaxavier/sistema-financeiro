@@ -2,7 +2,7 @@
 
 $host="127.0.0.1"; //host tem q vir primeiro , caso contrario conexão falha
 $user="root";
-$pass="270109";
+$pass="xxxxx";
 $db="financas_rafaelx";
 
 //Cria conexao
